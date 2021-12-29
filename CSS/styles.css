@@ -10,8 +10,13 @@ img{
 
 /*************************Class Selector****************/
 .bacon{
-  background-color:green;
+  background-color:purple;
 }
 .broccoli{
-  background-color:red;
+  background-color:black;
+}
+.more{
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
 }
